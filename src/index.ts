@@ -16,6 +16,7 @@ import * as Application from "expo-application"
 // long-press discreto copia el id al portapapeles (ver README).
 export const DEV_DEVICE_IDS: string[] = [
   "CA69BCD9-18B1-4813-ADCE-836527A67E0D", // iPhone de Nacho (IDFV vendor com.yestoall)
+  "576C0550-C6B0-432D-803E-C54E036C6838", // iPhone de Nacho (IDFV vendor com.yestoall Citas)
 ]
 
 // id estable del dispositivo por proveedor. iOS: IDFV; Android: Android ID.
